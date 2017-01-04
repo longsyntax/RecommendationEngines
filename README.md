@@ -3,7 +3,7 @@ Very simple item based collaborative filtering engines using data from a music s
 
 Code is in Python with the scipy and pandas libraries. 
 
-# Technique Used
+## Technique Used
 
 Cosine Similarities to fill a similarity matrix using Scipy
 
